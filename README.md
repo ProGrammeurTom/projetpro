@@ -28,7 +28,7 @@ Il est possible d'afficher seulement les données voulu en préssisant les param
 
 Afin d'exécuter le programme du projet **DODGE SMELLS** il faut :
 
-- Télécharger [Python](https://python.fr.softonic.com/?utm_source=Bing&utm_medium=paid&utm_campaign=BING_FR_DSA&msclkid=a4067f1af5661a28273d1c774580eed0)
+- Télécharger [Python](https://th.bing.com/th/id/OIP.lDgDwTfcIR4iedvoChfEAQHaCJ?w=316&h=101&c=7&r=0&o=5&dpr=1.3&pid=1.7)(https://python.fr.softonic.com/?utm_source=Bing&utm_medium=paid&utm_campaign=BING_FR_DSA&msclkid=a4067f1af5661a28273d1c774580eed0)
 
 - Télécharger un [IDE](https://www.commentcoder.com/ide-python/#:~:text=Top%2011%20des%20meilleurs%20IDE%20pour%20Python%20en,Windows%2FmacOS%2FLinux%20...%208%208.%20Spyder%20...%20%C3%89l%C3%A9ments%20suppl%C3%A9mentaires) pour exécuter du python comme par exemple [IDLE](https://python.developpez.com/telecharger/detail/id/1925/IDLE)
 
@@ -37,7 +37,7 @@ Afin d'exécuter le programme du projet **DODGE SMELLS** il faut :
 
 ## Utilisation du programme
 
-- L'exécuter dans L'IDE sans oublier d'importer les librairies **penda** et **BeautifulSoup** en écrivant en amont 'import penda' et 'import BeautifulSoup'
+- L'exécuter dans L'IDE sans oublier d'importer les librairies **penda** et **BeautifulSoup** en écrivant en amont 'import penda' et 'import BeautifulSoup'.
 
 - Afficher les données voulu en précisant les différents paramètres recherchés
 
@@ -53,4 +53,4 @@ Afin d'exécuter le programme du projet **DODGE SMELLS** il faut :
 
 ## A propos de nous 
 
-Si vous avez des questions, vous pouvez nous contacter via notre [site internet](http://www.fautvraimentetreconpouravoiruneadresseinternetaussilongue.com/).
+Si vous avez des questions, vous pouvez nous contacter via notre [site internet](http://www.fautvraimentetreconpouravoiruneadresseinternetaussilongue.com/).cd
