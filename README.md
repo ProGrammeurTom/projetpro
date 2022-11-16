@@ -34,7 +34,10 @@ Afin d'exécuter le programme du projet **DODGE SMELLS** il faut :
 
 - Récupéré le programme du projet **DODGE SMELLS**
 
-- L'exécuter dans L'IDE
+
+## Utilisation du programme
+
+- L'exécuter dans L'IDE sans oublier d'importer les librairies **penda** et **BeautifulSoup** en écrivant en amont 'import penda' et 'import BeautifulSoup'
 
 - Afficher les données voulu en précisant les différents paramètres recherchés
 
@@ -47,4 +50,7 @@ Afin d'exécuter le programme du projet **DODGE SMELLS** il faut :
 
 3) Documentation sur [l'utilisation du programme](https://cat-bounce.com/)
 
- 
+
+## A propos de nous 
+
+Si vous avez des questions, vous pouvez nous contacter via notre [site internet](http://www.fautvraimentetreconpouravoiruneadresseinternetaussilongue.com/).
